@@ -64,5 +64,5 @@ java -Dserver.port=8080 \
 ```bash
 删除Sentinel-master工程目录sentinel-dashboard工程,导入当前工程即可使用
 工程默认使用Nacos配置中心,使用前将NacosDynamicAccountsServiceImpl、NacosDynamicAppInfosServiceImpl中的信息配置到Nacos中
-
+编译后的sentinel-dashboard地址,下载即可使用：https://gitee.com/huang465265897/sentinel-dashboard/attach_files
 ```
